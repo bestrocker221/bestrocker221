@@ -1,10 +1,9 @@
-### Hi there 👋
+### Hi 
+
+<a href="https://github.com/bestrocker221"><img src="https://github-readme-stats.vercel.app/api?username=bestrocker221&count_private=true&theme=dark" height="180" /></a> <a href="https://github.com/bestrocker221"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=bestrocker221&langs_count=8&theme=dark&hide=tex,java,html,css&layout=compact" height="180" /></a>
 
 
 <!--
-**bestrocker221/bestrocker221** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
