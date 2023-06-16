@@ -2,9 +2,9 @@
 
 
 <!--START_SECTION:activity--> 
-1. ❗️ Opened issue [#1](https://github.com/shabarkin/aws-enumerator/issues/1) in [shabarkin/aws-enumerator](https://github.com/shabarkin/aws-enumerator)
-2. ❗️ Opened issue [#574](https://github.com/mushorg/conpot/issues/574) in [mushorg/conpot](https://github.com/mushorg/conpot)
-3. ❗️ Opened issue [#42](https://github.com/klezVirus/inceptor/issues/42) in [klezVirus/inceptor](https://github.com/klezVirus/inceptor)
+1. ❗ Opened issue [#5650](https://github.com/goauthentik/authentik/issues/5650) in [goauthentik/authentik](https://github.com/goauthentik/authentik)
+2. 💪 Opened PR [#141](https://github.com/ly4k/Certipy/pull/141) in [ly4k/Certipy](https://github.com/ly4k/Certipy)
+3. ❗ Opened issue [#3083](https://github.com/louislam/uptime-kuma/issues/3083) in [louislam/uptime-kuma](https://github.com/louislam/uptime-kuma)
 4. ❗️ Opened issue [#41](https://github.com/klezVirus/inceptor/issues/41) in [klezVirus/inceptor](https://github.com/klezVirus/inceptor)
 5. ❗️ Closed issue [#40](https://github.com/klezVirus/inceptor/issues/40) in [klezVirus/inceptor](https://github.com/klezVirus/inceptor)
 6. 🗣 Commented on [#40](https://github.com/klezVirus/inceptor/issues/40) in [klezVirus/inceptor](https://github.com/klezVirus/inceptor)
