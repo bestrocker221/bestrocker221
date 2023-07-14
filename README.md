@@ -2,8 +2,8 @@
 
 
 <!--START_SECTION:activity--> 
-1. 🗣 Commented on [#1620](https://github.com/oracle/terraform-provider-oci/issues/1620#issuecomment-1629906698) in [oracle/terraform-provider-oci](https://github.com/oracle/terraform-provider-oci)
-2. 💪 Opened PR [#141](https://github.com/ly4k/Certipy/pull/141) in [ly4k/Certipy](https://github.com/ly4k/Certipy)
+1. ❗ Opened issue [#32522](https://github.com/hashicorp/terraform-provider-aws/issues/32522) in [hashicorp/terraform-provider-aws](https://github.com/hashicorp/terraform-provider-aws)
+2. 🗣 Commented on [#1620](https://github.com/oracle/terraform-provider-oci/issues/1620#issuecomment-1629906698) in [oracle/terraform-provider-oci](https://github.com/oracle/terraform-provider-oci)
 3. ❗ Opened issue [#3083](https://github.com/louislam/uptime-kuma/issues/3083) in [louislam/uptime-kuma](https://github.com/louislam/uptime-kuma)
 4. ❗️ Opened issue [#41](https://github.com/klezVirus/inceptor/issues/41) in [klezVirus/inceptor](https://github.com/klezVirus/inceptor)
 5. ❗️ Closed issue [#40](https://github.com/klezVirus/inceptor/issues/40) in [klezVirus/inceptor](https://github.com/klezVirus/inceptor)
