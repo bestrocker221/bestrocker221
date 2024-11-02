@@ -2,11 +2,11 @@
 
 
 <!--START_SECTION:activity--> 
-1. 🗣 Commented on [#18356](https://github.com/argoproj/argo-cd/issues/18356#issuecomment-2439622538) in [argoproj/argo-cd](https://github.com/argoproj/argo-cd)
-2. 🗣 Commented on [#623](https://github.com/sissbruecker/linkding/issues/623#issuecomment-2360092113) in [sissbruecker/linkding](https://github.com/sissbruecker/linkding)
-3. ❗ Opened issue [#834](https://github.com/sissbruecker/linkding/issues/834) in [sissbruecker/linkding](https://github.com/sissbruecker/linkding)
-4. 🗣 Commented on [#1818](https://github.com/element-hq/element-desktop/issues/1818#issuecomment-2283406499) in [element-hq/element-desktop](https://github.com/element-hq/element-desktop)
-5. 🗣 Commented on [#6782](https://github.com/element-hq/element-android/issues/6782#issuecomment-2259732066) in [element-hq/element-android](https://github.com/element-hq/element-android)
+1. 🗣 Commented on [#69](https://github.com/flux-subsystem-argo/flamingo/issues/69#issuecomment-2452993099) in [flux-subsystem-argo/flamingo](https://github.com/flux-subsystem-argo/flamingo)
+2. 🗣 Commented on [#66](https://github.com/flux-subsystem-argo/flamingo/issues/66#issuecomment-2452992590) in [flux-subsystem-argo/flamingo](https://github.com/flux-subsystem-argo/flamingo)
+3. 🗣 Commented on [#18356](https://github.com/argoproj/argo-cd/issues/18356#issuecomment-2439622538) in [argoproj/argo-cd](https://github.com/argoproj/argo-cd)
+4. 🗣 Commented on [#623](https://github.com/sissbruecker/linkding/issues/623#issuecomment-2360092113) in [sissbruecker/linkding](https://github.com/sissbruecker/linkding)
+5. ❗ Opened issue [#834](https://github.com/sissbruecker/linkding/issues/834) in [sissbruecker/linkding](https://github.com/sissbruecker/linkding)
 6. 🗣 Commented on [#40](https://github.com/klezVirus/inceptor/issues/40) in [klezVirus/inceptor](https://github.com/klezVirus/inceptor)
 7. 🗣 Commented on [#13](https://github.com/GhostPack/Certify/issues/13) in [GhostPack/Certify](https://github.com/GhostPack/Certify)
 8. ❗️ Opened issue [#40](https://github.com/klezVirus/inceptor/issues/40) in [klezVirus/inceptor](https://github.com/klezVirus/inceptor)
