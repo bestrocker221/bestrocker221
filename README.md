@@ -2,7 +2,7 @@
 
 
 <!--START_SECTION:activity--> 
-1. ❗ Opened issue [#874](https://github.com/hargata/lubelog/issues/874) in [hargata/lubelog](https://github.com/hargata/lubelog)
+1. ❗ Opened issue [#841](https://github.com/mickael-kerjean/filestash/issues/841) in [mickael-kerjean/filestash](https://github.com/mickael-kerjean/filestash)
 2. 🔒 Closed issue [#328](https://github.com/goauthentik/helm/issues/328) in [goauthentik/helm](https://github.com/goauthentik/helm)
 3. 🗣 Commented on [#328](https://github.com/goauthentik/helm/issues/328#issuecomment-2688161232) in [goauthentik/helm](https://github.com/goauthentik/helm)
 4. ❗ Opened issue [#328](https://github.com/goauthentik/helm/issues/328) in [goauthentik/helm](https://github.com/goauthentik/helm)
