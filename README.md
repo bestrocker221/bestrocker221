@@ -2,7 +2,7 @@
 
 
 <!--START_SECTION:activity--> 
-1. ❗ Opened issue [#841](https://github.com/mickael-kerjean/filestash/issues/841) in [mickael-kerjean/filestash](https://github.com/mickael-kerjean/filestash)
+1. 🗣 Commented on [#10768](https://github.com/goauthentik/authentik/issues/10768#issuecomment-3072512875) in [goauthentik/authentik](https://github.com/goauthentik/authentik)
 2. 🔒 Closed issue [#328](https://github.com/goauthentik/helm/issues/328) in [goauthentik/helm](https://github.com/goauthentik/helm)
 3. 🗣 Commented on [#328](https://github.com/goauthentik/helm/issues/328#issuecomment-2688161232) in [goauthentik/helm](https://github.com/goauthentik/helm)
 4. ❗ Opened issue [#328](https://github.com/goauthentik/helm/issues/328) in [goauthentik/helm](https://github.com/goauthentik/helm)
