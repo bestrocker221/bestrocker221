@@ -2,9 +2,9 @@
 
 
 <!--START_SECTION:activity--> 
-1.  Labeled issue [#14571](https://github.com/jellyfin/jellyfin/issues/14571) in [jellyfin/jellyfin](https://github.com/jellyfin/jellyfin)
-2. ❗ Opened issue [#14571](https://github.com/jellyfin/jellyfin/issues/14571) in [jellyfin/jellyfin](https://github.com/jellyfin/jellyfin)
-3. 🗣 Commented on [#12230](https://github.com/goauthentik/authentik/issues/12230#issuecomment-3072527126) in [goauthentik/authentik](https://github.com/goauthentik/authentik)
+1. ❗ Opened issue [#14571](https://github.com/jellyfin/jellyfin/issues/14571) in [jellyfin/jellyfin](https://github.com/jellyfin/jellyfin)
+2. 🗣 Commented on [#12230](https://github.com/goauthentik/authentik/issues/12230#issuecomment-3072527126) in [goauthentik/authentik](https://github.com/goauthentik/authentik)
+3. 🗣 Commented on [#10768](https://github.com/goauthentik/authentik/issues/10768#issuecomment-3072512875) in [goauthentik/authentik](https://github.com/goauthentik/authentik)
 4. 🗣 Commented on [#10768](https://github.com/goauthentik/authentik/issues/10768#issuecomment-3072512875) in [goauthentik/authentik](https://github.com/goauthentik/authentik)
 5. ❗ Opened issue [#36](https://github.com/SQuent/kuma-ingress-watcher/issues/36) in [SQuent/kuma-ingress-watcher](https://github.com/SQuent/kuma-ingress-watcher)
 6. 🗣 Commented on [#40](https://github.com/klezVirus/inceptor/issues/40) in [klezVirus/inceptor](https://github.com/klezVirus/inceptor)
