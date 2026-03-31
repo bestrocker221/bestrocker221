@@ -2,7 +2,7 @@
 
 
 <!--START_SECTION:activity--> 
-1. 🗣 Commented on [#11822](https://github.com/esphome/esphome/issues/11822#issuecomment-3893862545) in [esphome/esphome](https://github.com/esphome/esphome)
+1. 🗣 Commented on [#12008](https://github.com/goauthentik/authentik/issues/12008#issuecomment-4165252167) in [goauthentik/authentik](https://github.com/goauthentik/authentik)
 2. 🗣 Commented on [#5545](https://github.com/fluxcd/flux2/issues/5545#issuecomment-3389460734) in [fluxcd/flux2](https://github.com/fluxcd/flux2)
 3. 🗣 Commented on [#5545](https://github.com/fluxcd/flux2/issues/5545#issuecomment-3389187029) in [fluxcd/flux2](https://github.com/fluxcd/flux2)
 4. 🗣 Commented on [#10768](https://github.com/goauthentik/authentik/issues/10768#issuecomment-3072512875) in [goauthentik/authentik](https://github.com/goauthentik/authentik)
